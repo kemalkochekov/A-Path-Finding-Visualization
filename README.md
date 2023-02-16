@@ -11,4 +11,5 @@ Finding Minimum Path from start node to end node by using A* Path Finding Algori
 bar@foo$:~/python3 runner_pygame.py
 
 # Interface
-<img width="800" alt="Screenshot 2023-02-16 at 20 49 55" src="https://user-images.githubusercontent.com/85355663/219448023-67e30dd0-2796-4ff8-be08-3f8d79a1dcc2.png">
+<img width="803" alt="Screenshot 2023-02-16 at 21 16 35" src="https://user-images.githubusercontent.com/85355663/219452946-911c58f5-9842-484f-8091-ed7be3e5a070.png">
+
